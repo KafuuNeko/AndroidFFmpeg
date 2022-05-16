@@ -1,2 +1,2 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+*.pnm -diff -text
+tests/ref/fate/sub-scc eol=crlf
